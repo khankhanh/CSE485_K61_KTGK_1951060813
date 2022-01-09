@@ -11,7 +11,7 @@
 </head>
 <body>
     <main>
-    <h5 class="text-center text-primary mt-5" >Danh sách hiến máu</h5>
+    <h5 class="text-center text-primary mt-5" >Danh sách nhân viên</h5>
     
     <div>
         <a href="index.php?controller=nhanvien&action=add" class="btn btn-primary ms-5">Thêm</a>
